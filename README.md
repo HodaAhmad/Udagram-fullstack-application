@@ -1,4 +1,6 @@
 # Udagram
+![Build Status](https://circleci.com/gh/HodaAhmad/Udagram-fullstack-application.svg?style=svg)
+
 In this project, you will take a newly developed full stack application and deploy it to a cloud service provider so that it is available to customers. This application contains the main components of a 3-tier full stack application (UI, API, and Database). 
 This project was deployed using udacity starter code.
 
