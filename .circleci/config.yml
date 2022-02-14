@@ -32,3 +32,11 @@ jobs:
       - run:
           name: Deploy front-End
           command: npm run frontend:deploy
+workflows:
+  Udagram-fullstack-application:
+    jobs:
+      - build:
+        filters:
+          branches:
+            only:
+              - master
