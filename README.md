@@ -5,7 +5,7 @@ In this project, you will take a newly developed full stack application and depl
 This project was deployed using udacity starter code.
 
 #### This app is accessible through:
-- http://my-udagram-api-12345.s3-website-us-east-1.amazonaws.com/home 
+- http://my-udagram-api-12345.s3-website-us-east-1.amazonaws.com/
 
 ### Configuration
 
